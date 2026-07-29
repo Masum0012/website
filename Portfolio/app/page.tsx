@@ -4,6 +4,7 @@ import { BrandStrip } from "@/components/brand-strip"
 import { AboutSection } from "@/components/about-section"
 import { ServicesSection } from "@/components/services-section"
 import { ApproachSection } from "@/components/approach-section"
+import { SuccessStoriesSection } from "@/components/success-stories-section"
 import { ContactSection } from "@/components/contact-section"
 import { SiteFooter } from "@/components/site-footer"
 import { Reveal } from "@/components/reveal"
@@ -25,6 +26,9 @@ export default function Page() {
         </Reveal>
         <Reveal>
           <ApproachSection />
+        </Reveal>
+        <Reveal>
+          <SuccessStoriesSection />
         </Reveal>
         <Reveal>
           <ContactSection />
