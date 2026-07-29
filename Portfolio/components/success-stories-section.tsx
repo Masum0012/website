@@ -9,28 +9,28 @@ const successStories = [
     name: "Mehrab Tashlim",
     achievement: "Successfully completed BRIT Academy London qualification",
     institution: "BRIT Academy London",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Mehrab%20Tashlim-ZpYtDI64boVVxyOz33jqg0tegN6dPX.jpeg",
+    image: "/success-stories/mehrab-tashlim.jpeg",
     alt: "Mehrab Tashlim receiving achievement certificate"
   },
   {
     name: "Rafayat Tahmin Rahi",
-    achievement: "Earned NWC Education certification with distinction",
-    institution: "NWC Education",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Rafayat%20Tahmin%20Rahi-GF5ccNDHFyTP47Q0LgbjPpXPByJaFn.jpeg",
+    achievement: "Earned BRIT Academy London certification with distinction",
+    institution: "BRIT Academy London",
+    image: "/success-stories/rafayat-tahmin-rahi.jpeg",
     alt: "Rafayat Tahmin Rahi with achievement award"
   },
   {
     name: "Jubayer Ahmed Rakib",
-    achievement: "Completed NWC Education university pathway program",
-    institution: "NWC Education",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/JUBAYER%20AHMED%20RAKIB-jaCDEN6sNoyUaHuANZzqHX2Y7X8uWp.jpeg",
+    achievement: "Completed BRIT Academy London university pathway program",
+    institution: "BRIT Academy London",
+    image: "/success-stories/jubayer-ahmed-rakib.jpeg",
     alt: "Jubayer Ahmed Rakib receiving certification"
   },
   {
     name: "MD Redwan Husen Jihad",
-    achievement: "Achieved NWC Education university admission certificate",
-    institution: "NWC Education",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/MD%20Redwan%20Husen%20Jihad-DDBtJoCuu3U7g8y2i45Bw3B3BQVzDv.jpeg",
+    achievement: "Achieved BRIT Academy London university admission certificate",
+    institution: "BRIT Academy London",
+    image: "/success-stories/md-redwan-husen-jihad.jpeg",
     alt: "MD Redwan Husen Jihad with certification"
   },
 ]
